@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zanned-Amir
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning c ,c++,python,machine learning 
+- 👀 I’m interested in computer science , c ,c++,python,machine learning 
+- 🌱 I’m currently learning c# , python 
 - 💞️ I’m looking to collaborate on  any project to improve my knowloge 
 - 📫 How to reach me zannedamir4@gmail.com
 
