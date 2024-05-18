@@ -1,5 +1,57 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br><br>Ruby on Rails<br>Flutter<br>React<br>🌱 I’m currently learning:<br><br>Flutter<br>Rails<br>Transflow<br>🤝 I’m looking for help with:<br><br>Rails<br>Flutter<br>👯 I’m looking to collaborate on:<br><br>Projects related to AI, specifically supervised learning, unsupervised learning, and deep learning<br>💬 Ask me about:<br><br>Supervised learning<br>Unsupervised learning<br>Data preprocessing<br>Rails<br>📫 How to reach me:<br>zannedamir4@gmail.com<br>⚡ Fun fact:<br><br>I don't drink coffee; I drink tea instead!
+
+<ul>
+  <li>🔭 I’m currently working on:
+    <ul>
+      <li>Ruby on Rails</li>
+      <li>Flutter</li>
+      <li>React</li>
+    </ul>
+  </li>
+
+  <li>🌱 I’m currently learning:
+    <ul>
+      <li>Flutter</li>
+      <li>Rails</li>
+      <li>Transflow</li>
+    </ul>
+  </li>
+
+  <li>🤝 I’m looking for help with:
+    <ul>
+      <li>Rails</li>
+      <li>Flutter</li>
+    </ul>
+  </li>
+
+  <li>👯 I’m looking to collaborate on:
+    <ul>
+      <li>Projects related to AI, specifically supervised learning, unsupervised learning, and deep learning</li>
+    </ul>
+  </li>
+
+  <li>💬 Ask me about:
+    <ul>
+      <li>Supervised learning</li>
+      <li>Unsupervised learning</li>
+      <li>Data preprocessing</li>
+      <li>Rails</li>
+    </ul>
+  </li>
+
+  <li>📫 How to reach me:
+    <ul>
+      <li>zannedamir4@gmail.com</li>
+    </ul>
+  </li>
+
+  <li>⚡ Fun fact:
+    <ul>
+      <li>I don't drink coffee; I drink tea instead!</li>
+    </ul>
+  </li>
+</ul>
+
 
 
 ## 🌐 Socials:
