@@ -8,6 +8,7 @@
       <li>React</li>
     </ul>
   </li>
+  <br>
 
   <li>🌱 I’m currently learning:
     <ul>
@@ -16,6 +17,7 @@
       <li>Transflow</li>
     </ul>
   </li>
+  <br>
 
   <li>🤝 I’m looking for help with:
     <ul>
@@ -23,12 +25,14 @@
       <li>Flutter</li>
     </ul>
   </li>
+  <br>
 
   <li>👯 I’m looking to collaborate on:
     <ul>
       <li>Projects related to AI, specifically supervised learning, unsupervised learning, and deep learning</li>
     </ul>
   </li>
+  <br>
 
   <li>💬 Ask me about:
     <ul>
@@ -38,12 +42,14 @@
       <li>Rails</li>
     </ul>
   </li>
+  <br>
 
   <li>📫 How to reach me:
     <ul>
       <li>zannedamir4@gmail.com</li>
     </ul>
   </li>
+  <br>
 
   <li>⚡ Fun fact:
     <ul>
@@ -51,6 +57,7 @@
     </ul>
   </li>
 </ul>
+
 
 
 
