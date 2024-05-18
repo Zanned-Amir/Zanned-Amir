@@ -2,6 +2,7 @@
 
 <ul>
   <li>🔭 I’m currently working on:
+    <br>
     <ul>
       <li>Ruby on Rails</li>
       <li>Flutter</li>
@@ -11,6 +12,7 @@
   <br>
 
   <li>🌱 I’m currently learning:
+    <br>
     <ul>
       <li>Flutter</li>
       <li>Rails</li>
@@ -20,6 +22,7 @@
   <br>
 
   <li>🤝 I’m looking for help with:
+    <br>
     <ul>
       <li>Rails</li>
       <li>Flutter</li>
@@ -28,6 +31,7 @@
   <br>
 
   <li>👯 I’m looking to collaborate on:
+    <br>
     <ul>
       <li>Projects related to AI, specifically supervised learning, unsupervised learning, and deep learning</li>
     </ul>
@@ -35,6 +39,7 @@
   <br>
 
   <li>💬 Ask me about:
+    <br>
     <ul>
       <li>Supervised learning</li>
       <li>Unsupervised learning</li>
@@ -45,6 +50,7 @@
   <br>
 
   <li>📫 How to reach me:
+    <br>
     <ul>
       <li>zannedamir4@gmail.com</li>
     </ul>
@@ -52,6 +58,7 @@
   <br>
 
   <li>⚡ Fun fact:
+    <br>
     <ul>
       <li>I don't drink coffee; I drink tea instead!</li>
     </ul>
