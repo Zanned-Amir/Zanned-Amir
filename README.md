@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning:
   - Flutter
   - Rails
-  - Transflow
+  - PyTorch 
 
 - 🤝 I’m looking for help with:
   - Rails
