@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on:
   - Ruby on Rails
   - Flutter
   - React
